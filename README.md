@@ -1,1 +1,1 @@
-"# ViewApplication for lookking images" 
+"# ViewApplication for looking images"
